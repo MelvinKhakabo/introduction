@@ -1,3 +1,4 @@
+#This program rewrites your numbers in reverse
 #input number function
 first_number = int(input("Enter your first number "))
 second_number = int(input("Enter your second number "))
