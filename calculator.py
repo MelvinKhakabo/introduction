@@ -6,19 +6,19 @@ first_number = int(input("Provide your first number? "))
 #input second number
 second_number = int(input("Provide your second number? "))
 
-# #addition
-# sum = first_number + second_number
-# print(f"The sum is:", sum)
+#addition
+sum = first_number + second_number
+print(f"The sum is:", sum)
 
 
-# #subtraction
-# difference = first_number - second_number
-# print(f"The difference is:", difference)
+#subtraction
+difference = first_number - second_number
+print(f"The difference is:", difference)
 
 
-# #multiplication
-# product = first_number * second_number
-# print(f"The product is:", product)
+#multiplication
+product = first_number * second_number
+print(f"The product is:", product)
 
 
 #division
